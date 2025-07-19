@@ -93,7 +93,7 @@ const TextArea = ({
 					</div>
 				</div>
 			</div>
-			{errorMessage ? <p className="text-sm italic text-danger-500 pl-4">{errorMessage}</p> : null}
+			{errorMessage ? <p className="text-sm italic text-danger-500 pl-4">{t(errorMessage)}</p> : null}
 		</div>
 	);
 };

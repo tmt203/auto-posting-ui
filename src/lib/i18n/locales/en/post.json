@@ -1,0 +1,14 @@
+{
+    "post": {
+        "schedule_post_form": "Schedule post form",
+        "title": "Title of the post",
+        "image_url": "Image URL",
+        "choose_shared_platform": "Choose shared platform",
+        "shared_date": "Shared date",
+        "number_of_shares_per_day": "Number of shares per day",
+        "first_shared_hour": "First shared hour",
+        "schedule_sharing": "Schedule sharing",
+        "platform": "Platform",
+        "platform_list": "Platform list"
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"post": {
+		"schedule_post_form": "Lên lịch bài viết",
+		"title": "Tiêu đề bài viết",
+		"image_url": "Hình ảnh URL",
+		"choose_shared_platform": "Chọn nền tảng chia sẻ",
+		"shared_date": "Ngày chia sẻ",
+		"number_of_shares_per_day": "Số lần chia sẻ trong ngày",
+		"first_shared_hour": "Giờ chia sẻ đầu tiên",
+		"schedule_sharing": "Lên lịch chia sẻ",
+		"platform": "Nền tảng",
+        "platform_list": "Danh sách nền tảng"
+	}
+}
